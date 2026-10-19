@@ -1,0 +1,14 @@
+.highlight {
+       color: blue;
+       font-weight: bold;
+}
+
+.dark-mode {
+    background-color: #222;
+    color: white;
+}
+
+.completed {
+    text-decoration: line-through;
+    color: gray;
+}
